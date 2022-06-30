@@ -175,6 +175,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    padding-top: 150px;
 }
 
 .header__description {
